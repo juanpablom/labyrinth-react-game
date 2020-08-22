@@ -1,4 +1,4 @@
-# Making Sense Labyrinth technical challenge
+# Challenge (React-Typescript-StyledComponents)
 
 > This challenge requires you to build a small application that works as a game using React.js.
 
