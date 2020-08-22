@@ -1,0 +1,13 @@
+html, body{
+    margin: 0px;
+    height: 100%;
+    background-color: lightgrey;
+}
+
+#root{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 5em;
+}    
